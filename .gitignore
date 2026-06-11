@@ -1,0 +1,6 @@
+# Ignore the private configuration file containing cloud API keys
+dashboard/config.json
+
+# Optional: Ignore local Python environment folders if you use them
+.venv/
+__pycache__/
